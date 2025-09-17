@@ -19,6 +19,29 @@
       "to": "#1E40AF"
     }
   },
+  "topbarLinks": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/hamdierdogan"
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://hamdierdogan.com.tr"
+    },
+    {
+      "name": "Google Business",
+      "url": "https://share.google/yAjpLsw3nglM38oNL"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "İletişim",
+    "url": "mailto:hmderd@gmail.com"
+  },
+  "footerSocials": {
+    "linkedin": "https://www.linkedin.com/company/hamdierdogan",
+    "instagram": "https://www.instagram.com/hamdierdoganmimarlik/",
+    "earth-americas": "https://hamdierdogan.com.tr"
+  },
   "navigation": [
     {
       "group": "Ana Sayfa",
