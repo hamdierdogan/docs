@@ -48,6 +48,10 @@
       "pages": ["index", "mies-van-der-rohe-award"]
     },
     {
+      "group": "Blog",
+      "pages": ["blog/cevreyi-anlamak"]
+    },
+    {
       "group": "Projeler",
       "pages": [
         "projeler/konut-projeleri",
