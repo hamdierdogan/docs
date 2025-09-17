@@ -3,7 +3,7 @@
   "navigation": [
     {
       "group": "Legal",
-      "pages": ["privacy-policy"]
+      "pages": ["privacy-policy", "terms-conditions"]
     }
   ]
 }
