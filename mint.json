@@ -3,12 +3,35 @@
   "name": "Hamdi Erdoğan Architecture",
   "theme": "venus",
   "favicon": "/favicon.svg",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/dark.svg"
+  },
   "colors": {
     "primary": "#2563EB",
     "light": "#3B82F6",
-    "dark": "#1E40AF"
+    "dark": "#1E40AF",
+    "background": {
+      "dark": "#0F0F0F"
+    },
+    "anchors": {
+      "from": "#2563EB",
+      "to": "#1E40AF"
+    }
   },
   "navigation": [
+    {
+      "group": "Ana Sayfa",
+      "pages": ["index"]
+    },
+    {
+      "group": "Projeler",
+      "pages": [
+        "projeler/konut-projeleri",
+        "projeler/ticari-projeler",
+        "projeler/yarismalar"
+      ]
+    },
     {
       "group": "Legal",
       "pages": ["privacy-policy", "terms-conditions"]
