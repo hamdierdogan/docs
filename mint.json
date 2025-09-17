@@ -45,7 +45,7 @@
   "navigation": [
     {
       "group": "Ana Sayfa",
-      "pages": ["index"]
+      "pages": ["index", "mies-van-der-rohe-award"]
     },
     {
       "group": "Projeler",
