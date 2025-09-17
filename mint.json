@@ -1,0 +1,17 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Hamdi Erdoğan Architecture",
+  "theme": "venus",
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "light": "#3B82F6",
+    "dark": "#1E40AF"
+  },
+  "navigation": [
+    {
+      "group": "Legal",
+      "pages": ["privacy-policy", "terms-conditions"]
+    }
+  ]
+}
