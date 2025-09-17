@@ -4,8 +4,8 @@
   "theme": "venus",
   "favicon": "/favicon.svg",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/dark.svg"
+    "dark": "/logo/hamdierdogan_dark.svg",
+    "light": "/logo/hamdierdogan_light.svg"
   },
   "colors": {
     "primary": "#2563EB",
