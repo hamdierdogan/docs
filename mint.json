@@ -56,6 +56,10 @@
       ]
     },
     {
+      "group": "Kurumsal",
+      "pages": ["hakkimizda", "iletisim"]
+    },
+    {
       "group": "Legal",
       "pages": ["privacy-policy", "terms-conditions"]
     }
